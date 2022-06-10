@@ -1,4 +1,4 @@
-![Visitor Count](https : //profile-counter.glitch.me/{jaseva}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jaseva/count.svg)
 
 ### Hi there 👋
 
