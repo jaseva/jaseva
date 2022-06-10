@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on ...
-C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS
+🔭 I’m currently working on ... C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | Unity | Unreal Engine
 
-👯 I’m looking to collaborate on ...
-Interesting projects.
+👯 I’m looking to collaborate on ... interesting projects
+
+💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence
