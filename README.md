@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ... interesting projects
 
-💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence
+💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence<br><br>
+
+![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br><br>
+
+[![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva)](https://github.com/jaseva/github-readme-stats)
