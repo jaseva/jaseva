@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ... interesting projects, blockchain, machine learning, quantum computing, computer vision, digital humans
 
-📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj)<br><br>
+📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj) | [Twitter](https://bit.ly/3O3E3wv)<br><br>
 
 ![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br><br>
 
