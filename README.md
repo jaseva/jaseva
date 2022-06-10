@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br><br>
 
-[![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva)](https://github.com/jaseva/github-readme-stats)
+[![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
