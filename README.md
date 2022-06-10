@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on ...
+C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | 
 
 🌱 I’m currently learning ...
 
