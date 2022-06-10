@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ... C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | Unity | Unreal Engine
 
-👯 I’m looking to collaborate on ... interesting projects
+👯 I’m looking to collaborate on ... interesting projects, blockchain, machine learning, quantum computing
 
 💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence<br><br>
 
