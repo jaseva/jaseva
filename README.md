@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ... interesting projects, blockchain, machine learning, quantum computing
 
-💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence | [IEEE Global XR Ethics in Medicine](https://bit.ly/39dlLu5)<br><br>
+💬 Ask me about ... Web Development | Automation | SharePoint | Extended Reality | Artificial Intelligence | [IEEE Global XR Ethics in Medicine](https://bit.ly/39dlLu5)
+
+📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj)<br><br>
 
 ![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br><br>
 
