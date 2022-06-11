@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ... interesting projects, blockchain, machine learning, quantum computing, computer vision, digital humans
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=branchbark)](https://github.com/branchbark/github-readme-twitter)<br><br>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=branchbark)](https://github.com/branchbark/github-readme-twitter)<br>
 
-📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj) | [Twitter](https://bit.ly/3O3E3wv)<br><br>
+📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj) | [Twitter](https://bit.ly/3O3E3wv)<br>
 
 [![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
