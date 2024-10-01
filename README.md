@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Program+or+be+programmed)](https://git.io/typing-svg)
 
-⚡ To those who follow and then unfollow profiles, I will unfollow your profile ;)
+⚡ To those who enjoy following and then unfollowing profiles, I will receive a report and unfollow your profile ;)
 
 🔭 I’m currently working on ... C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | Unity | Unreal Engine
 
