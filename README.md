@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Program+or+be+programmed)](https://git.io/typing-svg)
 
+⚡ To those who follow and then unfollow profiles, I will unfollow your profile ;)
+
 🔭 I’m currently working on ... C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | Unity | Unreal Engine
 
 💬 Ask me about ... Automation | SharePoint | Extended Reality (XR) | Artificial Intelligence | [IEEE Global XR Ethics in Medicine](https://bit.ly/39dlLu5)<br>
