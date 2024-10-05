@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br>-->
 
-👯 I’m looking to collaborate on ... interesting projects, blockchain, machine learning, quantum computing, computer vision, digital humans
+👯 Let's collaborate on ... interesting projects, blockchain, machine learning, quantum computing, computer vision, digital humans
 
 [![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
 
