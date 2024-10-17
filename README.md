@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ... C# | .NET Core | MVC | ASP.NET | Azure | Google Cloud Platform | AWS | Unity | Unreal Engine
 
-💬 Ask me about ... Automation | SharePoint | Extended Reality (XR) | Artificial Intelligence | [IEEE Global XR Ethics in Medicine](https://bit.ly/39dlLu5)<br>
+💬 Ask me about ... Automation | Machine Learning | Extended Reality (XR) | Artificial Intelligence | [IEEE Global XR Ethics in Medicine](https://bit.ly/39dlLu5)<br>
 
 <!--![JasEva's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaseva&show_icons=true&theme=radical)<br>-->
 
