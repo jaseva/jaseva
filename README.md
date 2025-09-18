@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [![JasEva's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaseva&layout=compact&theme=radical)](https://github.com/jaseva/github-readme-stats)
 
 📫 How to reach me: ... [LinkedIn](https://bit.ly/3QdM5oj) | [Twitter](https://bit.ly/3O3E3wv)<br>
+
+[![views](https://komarev.com/ghpvc/?username=jaseva&style=flat-square)](https://github.com/jaseva)
